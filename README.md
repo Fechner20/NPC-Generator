@@ -16,10 +16,11 @@ amountofNPC= int(input("How many NPCS do you want to generate(Must be 10+): "))
 
   ```py
     print(f"\nName:{random.choice(Names)} \nWeapon: {random.choice(Weapons)} \nJob: {random.choice(Jobs)} \nHeight: {random.choice(Heights)} feet tall \nAge: {random.randint(1,100)}")
-```
+    ```
 
 
 ## About Me
-    My name is James Fechner and I currently attend the Computer Science and Applied Engineering academy at Voorhees highschool. In my free time I enjoy playing sports including ice hockey, lacrosse, and basketball. In the future I hope to attend college and pursue a carreer in investment banking.
+    
+  My name is James Fechner and I currently attend the Computer Science and Applied Engineering academy at Voorhees highschool. In my free time I enjoy playing sports including ice hockey, lacrosse, and basketball. In the future I hope to attend college and pursue a carreer in investment banking.
 
 
