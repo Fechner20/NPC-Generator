@@ -14,9 +14,9 @@ Some of the highlights of my generator are that it can take a user input on how 
 amountofNPC= int(input("How many NPCS do you want to generate(Must be 10+): "))
 ```
 
-  ```py
+```py
     print(f"\nName:{random.choice(Names)} \nWeapon: {random.choice(Weapons)} \nJob: {random.choice(Jobs)} \nHeight: {random.choice(Heights)} feet tall \nAge: {random.randint(1,100)}")
-    ```
+```
 
 
 ## About Me
