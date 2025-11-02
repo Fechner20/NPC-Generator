@@ -3,6 +3,7 @@
 # 📄 NPC GENERATOR
 
 > *CSAEA final python fundamentals project*
+
 This is my NPC Generator for an open world video game being developed for one of my clients. It gives the NPCS Names,Heights, Ages, Jobs, and Weapons and the amount of NPCs is decided by the user. It can create any amount of NPCS you can imagine.
 
 
@@ -13,4 +14,9 @@ Some of the highlights of my generator are that it can take a user input on how 
 amountofNPC= int(input("How many NPCS do you want to generate(Must be 10+): "))
 
     print(f"\nName:{random.choice(Names)} \nWeapon: {random.choice(Weapons)} \nJob: {random.choice(Jobs)} \nHeight: {random.choice(Heights)} feet tall \nAge: {random.randint(1,100)}")
+```
+    
+## About Me
+    My name is James Fechner and I currently attend the Computer Science and Applied Engineering academy at Voorhees highschool. In my free time I enjoy playing sports including ice hockey, lacrosse, and basketball. In the future I hope to pursue a career in investment banking.
+
 
